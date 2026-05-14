@@ -8,23 +8,23 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Hoàng Văn Anh
+&emsp; **Họ và tên:** Nguyễn Anh Quân
 
-&emsp; **Số điện thoại:** 0375956650
+&emsp; **Số điện thoại:** 0365052393
 
-&emsp; **Email:** anhhvse180142@fpt.edu.vn
+&emsp; **Email:** quan2203tb17@gmail.com
 
-&emsp; **Mã Số Sinh Viên:** SE180142
+&emsp; **Mã Số Sinh Viên:** 2280602588
 
-&emsp; **Trường:** Đại học FPT Hồ Chí Minh
+&emsp; **Trường:** Đại học Công Nghệ Thành Phố Hồ Chí Minh (HUTECH)
 
-&emsp; **Ngành:** Trí Tuệ Nhân Tạo
+&emsp; **Ngành:** Công nghệ phần mềm
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
-&emsp; **Vị trí thực tập:** FCJ Cloud Intern
+&emsp; **Vị trí thực tập:** tester Cloud Intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 09/12/2025
+&emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 09/12/2025 
 
 ![Ảnh đại diện của bạn](/images/avatar.jpg)
 

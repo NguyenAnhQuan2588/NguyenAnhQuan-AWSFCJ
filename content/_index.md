@@ -8,23 +8,23 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Hoang Van Anh
+&emsp; **Full Name:** Nguyen Anh Quan
 
-&emsp; **Phone Number:** 0375956650
+&emsp; **Phone Number:** 0365052393
 
-&emsp; **Email:** anhhvse180142@fpt.edu.vn
+&emsp; **Email:** quan2203tb17@gmail.com
 
-&emsp; **Student ID:** SE180142
+&emsp; **Student ID:** 2280602588
 
-&emsp; **University:** FPT University Camp Ho Chi Minh City
+&emsp; **University:** HUTECH University of Technology
 
-&emsp; **Major:** Artificial Intelligence
+&emsp; **Major:** software technology
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 08/09/2025 to 09/012/2025
+&emsp; **Internship Duration:** From 08/09/2025 to 09/12/2025
 
 ![Your profile picture](/images/avatar.jpg)
 
